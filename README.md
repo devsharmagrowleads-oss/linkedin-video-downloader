@@ -75,6 +75,8 @@ src/
 
 ## Getting Started
 
+Requires Node.js 20.18.1 or newer (needed by the `cheerio` dependency; an `.nvmrc` is included).
+
 ```bash
 # Install dependencies
 npm install
